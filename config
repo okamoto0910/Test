@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = okap0910
+	email = elc15928@kwansei.ac.jp
+[remote "Test"]
+	url = https://github.com/okamoto0910/Test.git
+	fetch = +refs/heads/*:refs/remotes/Test/*

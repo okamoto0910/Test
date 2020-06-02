@@ -1,0 +1,32 @@
+{
+  "$id": "14",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2020-06-02T14:44:24.2902319+09:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "ブランチ"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "15",
+      "BaseUrl": "https://www.github.com",
+      "Identifier": "okamoto0910/Test",
+      "RemoteName": "Test",
+      "Type": 0,
+      "Username": null,
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "",
+      "AvatarUrl": null,
+      "DisplayName": "Test: https://www.github.com"
+    }
+  ]
+}
